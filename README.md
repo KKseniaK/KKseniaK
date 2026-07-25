@@ -36,7 +36,7 @@ Full-stack client-server solution for personal inventory tracking. The system pa
 Interactive game project inspired by Rusty Lake aesthetics. Designed around custom event-driven architecture, robust state management, and unit testing for complex puzzle logic using Unity Test Framework.  
 **Tech:** `C#` `Unity` `Unity Test Framework` `OOP` `Git`
 
-### [Licensed Products Market Research — Data Pipeline]()
+### [Licensed Products Market Research — Data Pipeline](https://github.com/KKseniaK/smeshariki-merch-analytics)
 End-to-end data analytics workflow focused on market insights. Features automated web scraping of retail platforms, data sanitization, exploratory statistical evaluation, and custom visualization.  
 **Tech:** `Python` `Pandas` `NumPy` `Selenium` `Matplotlib` `Google Colab`
 

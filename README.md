@@ -28,7 +28,7 @@ I enjoy understanding how systems work, finding ways to improve them, and turnin
 
 A selection of software engineering, testing, and analytics projects. This list is continuously updated as I build new systems and explore machine learning models.
 
-### [Polochka — Smart Food Storage Ecosystem]()
+### [Polochka — Smart Food Storage Ecosystem](https://github.com/KKseniaK/polochka-android)
 Full-stack client-server solution for personal inventory tracking. The system pairs a Kotlin Android mobile application with a Ktor REST API backend, using PostgreSQL with Flyway for automated schema migrations and Postman for API test coverage.  
 **Tech:** `Kotlin` `Android SDK` `MVVM` `Ktor` `PostgreSQL` `Flyway` `REST API` `Postman`
 

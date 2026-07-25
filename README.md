@@ -32,7 +32,7 @@ A selection of software engineering, testing, and analytics projects. This list 
 Full-stack client-server solution for personal inventory tracking. The system pairs a Kotlin Android mobile application with a Ktor REST API backend, using PostgreSQL with Flyway for automated schema migrations and Postman for API test coverage.  
 **Tech:** `Kotlin` `Android SDK` `MVVM` `Ktor` `PostgreSQL` `Flyway` `REST API` `Postman`
 
-### [Point-and-Click Quest — Atmospheric Puzzle Engine]()
+### [Point-and-Click Quest — Atmospheric Puzzle Engine](https://github.com/KKseniaK/coursework-the-room-inside)
 Interactive game project inspired by Rusty Lake aesthetics. Designed around custom event-driven architecture, robust state management, and unit testing for complex puzzle logic using Unity Test Framework.  
 **Tech:** `C#` `Unity` `Unity Test Framework` `OOP` `Git`
 

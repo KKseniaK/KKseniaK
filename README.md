@@ -22,6 +22,7 @@ I'm a third-year Software Engineering student at HSE University, focused on soft
 
 I enjoy understanding how systems work, finding ways to improve them, and turning ideas into well-designed projects. Most of my work revolves around backend development, Android, QA, and data analysis.
 
+[MY CV HERE](https://github.com/KKseniaK/KKseniaK/blob/main/Ksenia%20Krotova%20CV.pdf)
 ---
 
 ## Projects & Research
